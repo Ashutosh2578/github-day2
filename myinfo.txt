@@ -1,2 +1,3 @@
 my name is ashutosh
-i am studying in NIST 
+i am study git in NIST 
+changed for github
